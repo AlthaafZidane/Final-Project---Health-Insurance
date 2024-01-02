@@ -105,7 +105,7 @@ print('seaborn version : ',sns.__version__)
 
 ## **Exploratory Data Analysis (EDA)**
 
-![Alt text](image.png)
+![Alt text](C:\Users\altha\OneDrive\Documents\RAKAMIN\HOMEWORK_ALL\17. Stage 4\Final-Project---Health-Insurance)
 
 ### Performing Descriptive Statistics on the dataset to check for missing data.
 ### The result obtained shows that there is no missing data in the dataset.
