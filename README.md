@@ -1,6 +1,6 @@
 # **Health Insurance : Cross-Sell Prediction**
 
-![HI](https://img.freepik.com/free-photo/top-view-health-insurance-form-eyeglasses-pulse-gauge-with-stethoscope-wooden-background_1921-30.jpg?w=1060&t=st=1703067757~exp=1703068357~hmac=f3b7820ca48404cf1a14d116308d7b8c0d3747f8f8320ef4004d6ab74dc04a5b)
+![HI](PICT/1.jpg)
 
 
 ### **About Dataset**
